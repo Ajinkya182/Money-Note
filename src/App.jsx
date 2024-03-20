@@ -89,7 +89,7 @@ function App() {
           </div>
         </div>
       </div>
-         <p className="text-center text-gray-500 mt-4">Made by Ajinkya</p>
+         <p className="text-center text-gray-500 mt-4">Made By Ajinkya</p>
     </div>
   );
 }
